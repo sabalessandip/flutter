@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4E34589E-B7C9-43FA-AF8F-0818F9A5E2C3"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D58F5FF7-05B9-4702-8A87-C8200B4F4343"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DogBreeds/DogBreedService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "fetchDogBreed(id:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D58F5FF7-05B9-4702-8A87-C8200B4F4343 - 91b27a65807bee4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DogBreeds.DogBreedService.fetchDogBreed(id: Swift.String, completion: (DogBreeds.DogBreed) -&gt; ()) -&gt; ()"
+                  moduleName = "DogBreeds"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sandy/Documents/flutter_blog/micro-frontend/part1/completed/DogBreeds/DogBreeds/DogBreedService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "331">
+               </Location>
+               <Location
+                  uuid = "D58F5FF7-05B9-4702-8A87-C8200B4F4343 - 91b27a65807bee4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DogBreeds.DogBreedService.fetchDogBreed(id: Swift.String, completion: (DogBreeds.DogBreed) -&gt; ()) -&gt; ()"
+                  moduleName = "DogBreeds"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sandy/Documents/flutter_blog/micro-frontend/part1/completed/DogBreeds/DogBreeds/DogBreedService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "415">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "310821BB-059C-4F68-A476-87B42B87B248"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DogBreeds/DogBreedService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "fetchDogBreed(id:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "310821BB-059C-4F68-A476-87B42B87B248 - f4c1ac66446939c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DogBreeds.DogBreedService.fetchDogBreed(id: Swift.String, completion: (DogBreeds.DogBreed) -&gt; ()) -&gt; ()"
+                  moduleName = "DogBreeds"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sandy/Documents/flutter_blog/micro-frontend/part1/completed/DogBreeds/DogBreeds/DogBreedService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "306">
+               </Location>
+               <Location
+                  uuid = "310821BB-059C-4F68-A476-87B42B87B248 - f4c1ac66446939c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DogBreeds.DogBreedService.fetchDogBreed(id: Swift.String, completion: (DogBreeds.DogBreed) -&gt; ()) -&gt; ()"
+                  moduleName = "DogBreeds"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sandy/Documents/flutter_blog/micro-frontend/part1/completed/DogBreeds/DogBreeds/DogBreedService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "973">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
